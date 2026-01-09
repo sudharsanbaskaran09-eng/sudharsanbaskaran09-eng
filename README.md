@@ -58,7 +58,7 @@ I enjoy working with **AWS, Azure, Docker, Kubernetes, Terraform, and Jenkins** 
 
 ## 🚀 DevOps & Cloud Tools
 
-![AWS](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-black?logo=amazonaws)
 ![Azure](https://img.shields.io/badge/Azure-blue?logo=microsoftazure)
 ![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?logo=kubernetes)
