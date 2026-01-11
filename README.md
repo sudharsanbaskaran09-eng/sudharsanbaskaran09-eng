@@ -30,7 +30,7 @@ I enjoy working with **AWS, Azure, Docker, Kubernetes, Terraform, and Jenkins** 
 
 ## 🛠️ Projects I'm Working On
 
-- 🔹 Actively working on **80+ hands-on AWS projects**, covering core to advanced cloud services (compute, storage, networking, IAM, monitoring, and security).
+- 🔹 Actively working on **45+ hands-on AWS projects**, covering core to advanced cloud services (compute, storage, networking, IAM, monitoring, and security).
 - 🔹 Planning and executing **12 real-world, industry-level DevOps & Cloud projects** focused on production-ready architectures.
 - 🔹 Building an end-to-end **CI/CD pipeline** using Git, Jenkins, Docker, and Kubernetes.
 - 🔹 Automating cloud infrastructure on **AWS & Azure using Terraform and Infrastructure as Code (IaC)** principles.
