@@ -1,7 +1,7 @@
 ![Banner](https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif)
 
 # Hi 👋, I'm Sudharsan
-### 🚀 DevOps & Cloud Engineer | Fresh Graduate | Open to Work
+### DevOps & Cloud Engineer | Fresh Graduate | Open to Work
 
 ☁️ AWS | Azure | Docker | Kubernetes
 ⚙️ CI/CD | Automation | Infrastructure as Code
