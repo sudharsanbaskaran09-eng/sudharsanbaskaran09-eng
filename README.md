@@ -55,25 +55,42 @@ I enjoy working with **AWS, Azure, Docker, Kubernetes, Terraform, and Jenkins** 
 
 ---
 
-## 🚀 DevOps & Cloud Tools
+## 🛠️ Tech Stack
 
-![AWS](https://img.shields.io/badge/AWS-black?logo=amazonaws)
-![Azure](https://img.shields.io/badge/Azure-blue?logo=microsoftazure)
-![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?logo=kubernetes)
-![Jenkins](https://img.shields.io/badge/Jenkins-red?logo=jenkins)
-![Terraform](https://img.shields.io/badge/Terraform-purple?logo=terraform)
-![Ansible](https://img.shields.io/badge/Ansible-red?logo=ansible)
-![Grafana](https://img.shields.io/badge/Grafana-orange?logo=grafana)
-![Prometheus](https://img.shields.io/badge/Prometheus-orange?logo=prometheus)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash,git,python,nodejs,aws,azure,docker,kubernetes,jenkins,githubactions,terraform,ansible,grafana,prometheus" />
+</div>
 
 ---
 
-## 💻 Languages & Tools
+## 📊 Stats
 
-![Python](https://img.shields.io/badge/Python-blue?logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
-![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js)
-![Git](https://img.shields.io/badge/Git-orange?logo=git)
-![Postman](https://img.shields.io/badge/Postman-orange?logo=postman)
-![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sudharsanbaskaran09-eng&theme=tokyonight&hide_border=true"/><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudharsanbaskaran09-eng&theme=tokyonight&layout=donut&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sudharsanbaskaran09-eng&show_icons=true&theme=tokyonight&hide_border=true"/><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sudharsanbaskaran09-eng&theme=tokyonight" width="33%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sudharsanbaskaran09-eng&theme=tokyonight" width="33%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sudharsanbaskaran09-eng&theme=tokyonight&utcOffset=+5" width="33%"/><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudharsanbaskaran09-eng&theme=tokyonight" width="100%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sudharsanbaskaran09-eng&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+## 🌐 Socials
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/sudharsan-b-95443925a">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:sudharsanbaskaran09@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+  </a>
+</div>
