@@ -77,27 +77,6 @@ production-ready systems.
 
 ---
 
-## 📊 Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sudharsanbaskaran09-eng&theme=tokyonight&hide_border=true"/><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudharsanbaskaran09-eng&theme=tokyonight&layout=donut&hide_border=true"/>
-<img src="https://github-readme-stats.vercel.app/api?username=sudharsanbaskaran09-eng&show_icons=true&theme=tokyonight&hide_border=true"/><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sudharsanbaskaran09-eng&theme=tokyonight" width="33%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sudharsanbaskaran09-eng&theme=tokyonight" width="33%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sudharsanbaskaran09-eng&theme=tokyonight&utcOffset=+5" width="33%"/><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudharsanbaskaran09-eng&theme=tokyonight" width="100%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sudharsanbaskaran09-eng&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
 ## 🌐 Socials
 
 <div align="center">
