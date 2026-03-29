@@ -90,12 +90,8 @@ production-ready systems.
 
 ---
 
-<h2 align="center">🚀 Sudharsan's GitHub Stats</h2>
+<h2 align="center">🔥 My GitHub Streak</h2>
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudharsanbaskaran09-eng&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sudharsanbaskaran09-eng&show_icons=true&theme=tokyonight" />
-</p>
+</div>
