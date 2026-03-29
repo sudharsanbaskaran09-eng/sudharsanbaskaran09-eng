@@ -87,3 +87,9 @@ production-ready systems.
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
   </a>
 </div>
+
+---
+
+## 🔥 My GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sudharsanbaskaran09-eng&theme=dark)
