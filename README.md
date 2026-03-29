@@ -90,6 +90,8 @@ production-ready systems.
 
 ---
 
-## 🔥 My GitHub Streak
+<h2 align="center">🔥 My GitHub Streak</h2>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sudharsanbaskaran09-eng&theme=dark)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudharsanbaskaran09-eng&theme=tokyonight" />
+</p>
