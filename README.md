@@ -7,7 +7,27 @@
 ⚙️ CI/CD | Automation | Infrastructure as Code
 🐧 Linux | DevSecOps | Monitoring
 
+---
 
+## 👨‍💻 About Me
+
+I'm a **fresh graduate** passionate about building **scalable, secure, and automated cloud systems**.
+Actively building production-grade cloud and DevOps projects, and seeking my first role as a
+**DevOps Engineer, Cloud Engineer, or Cloud Support/Solutions Engineer**.
+
+I focus on:
+- Automating cloud infrastructure with IaC
+- Building reliable CI/CD pipelines
+- Containerization and orchestration
+- Monitoring, logging, and performance optimization
+- Applying DevSecOps best practices
+
+I work with **AWS, Azure, Docker, Kubernetes, Terraform, and Jenkins** to turn ideas into
+production-ready systems.
+
+📫 Reach me at: **sudharsanbaskaran09@gmail.com**
+
+---
 
 ## 🛠️ Projects I'm Working On
 
