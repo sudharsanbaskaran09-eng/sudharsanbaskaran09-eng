@@ -1,14 +1,7 @@
 ![Banner](https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif)
 
 # Hi 👋, I'm Sudharsan
-### DevOps & Cloud Engineer | Fresh Graduate | Open to Work
-
----
-
-## 🛠️ Projects I'm Working On
-
-- 🔹 Actively working on **45+ hands-on AWS projects**, covering core to advanced cloud services
-  (compute, storage, networking, IAM, monitoring, and security).
+### DevOps & Cloud Engineer | Fresh G
 - 🔹 Planning and executing **12 real-world, industry-level DevOps & Cloud projects** focused on
   production-ready architectures.
 - 🔹 Building an end-to-end **CI/CD pipeline** using Git, Jenkins, Docker, and Kubernetes.
