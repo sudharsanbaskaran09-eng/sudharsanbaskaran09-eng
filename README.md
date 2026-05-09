@@ -3,21 +3,6 @@
 # Hi 👋, I'm Sudharsan
 ### DevOps & Cloud Engineer | Fresh Graduate | Open to Work
 
-☁️ AWS | Azure | Docker | Kubernetes
-⚙️ CI/CD | Automation | Infrastructure as Code
-🐧 Linux | DevSecOps | Monitoring
-
-
-- Building reliable CI/CD pipelines
-- Containerization and orchestration
-- Monitoring, logging, and performance optimization
-- Applying DevSecOps best practices
-
-I work with **AWS, Azure, Docker, Kubernetes, Terraform, and Jenkins** to turn ideas into
-production-ready systems.
-
-📫 Reach me at: **sudharsanbaskaran09@gmail.com**
-
 ---
 
 ## 🛠️ Projects I'm Working On
