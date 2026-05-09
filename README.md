@@ -29,21 +29,7 @@
 - 🐳 Achieve mastery in **Docker, Kubernetes, Terraform, Ansible & Jenkins** for real-world
   infrastructure automation
 - 🔁 Design and deploy **end-to-end CI/CD pipelines** that meet enterprise-grade reliability
-  and security standards
-- 📊 Build strong observability skills using **Prometheus, Grafana, and centralized logging**
-- 🔐 Integrate **DevSecOps practices** into every pipeline — shifting security left from day one
-- 🏅 Earn industry certifications: **AWS SAA | AZ-104 | CKA**
-- 🌱 Grow into a **cloud-native engineer** who can architect, automate, and scale production
-  systems independently
 
----
-
-## 🤝 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/sudharsan-b-95443925a)  
-[![Email](https://img.shields.io/badge/Email-c14438?logo=gmail)](mailto:sudharsanbaskaran09@gmail.com)
-
----
 
 ## 🛠️ Tech Stack
 
