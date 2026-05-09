@@ -22,24 +22,6 @@
 
 ## 🎯 My Goals
 
-- 🚀 Secure a role as a **DevOps Engineer, Cloud Engineer, or Cloud Support/Solutions Engineer**
-  as a fresh graduate ready to contribute from day one
-- ☁️ Deepen production-level expertise across **AWS & Azure** — compute, networking, IAM,
-  storage, and security
-- 🐳 Achieve mastery in **Docker, Kubernetes, Terraform, Ansible & Jenkins** for real-world
-  infrastructure automation
-- 🔁 Design and deploy **end-to-end CI/CD pipelines** that meet enterprise-grade reliability
-
-
-## 🛠️ Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,git,python,nodejs,aws,azure,docker,kubernetes,jenkins,githubactions,terraform,ansible,grafana,prometheus" />
-</div>
-
----
-
-## 🌐 Socials
 
 <div align="center">
   <a href="https://www.linkedin.com/in/sudharsan-b-95443925a">
