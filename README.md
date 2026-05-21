@@ -88,10 +88,9 @@ production-ready systems.
   </a>
 </div>
 
----
-<h2 align="center">💻 GitHub Streak</h2>
+---<h2 align="center">⚡ GitHub Streak</h2>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudharsanbaskaran09-eng&theme=merko&border_radius=10&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudharsanbaskaran09-eng&theme=tokyonight&border_radius=10&hide_border=true" />
 </div>
 
