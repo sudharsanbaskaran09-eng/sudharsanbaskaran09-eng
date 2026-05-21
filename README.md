@@ -89,8 +89,8 @@ production-ready systems.
 </div>
 
 ---
-<h1 align="center">Sudharsan's GitHub Stats</h1>
+<h1 align="center">☁️ Sudharsan's Cloud & DevOps Journey</h1>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=sudharsanbaskaran09-eng&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=sudharsanbaskaran09-eng&theme=github-dark-blue&hide_border=true&border_radius=12" />
 </div>
