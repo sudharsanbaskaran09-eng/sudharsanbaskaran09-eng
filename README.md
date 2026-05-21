@@ -92,17 +92,17 @@ production-ready systems.
 <h1 align="center">🚀 Sudharsan's GitHub Stats</h1>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudharsanbaskaran09-eng&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img src="https://streak-stats.demolab.com?user=sudharsanbaskaran09-eng&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sudharsanbaskaran09-eng&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sudharsanbaskaran09-eng&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudharsanbaskaran09-eng&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudharsanbaskaran09-eng&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
 </div>
