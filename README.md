@@ -5,14 +5,7 @@
 
 ☁️ AWS | Azure | Docker | Kubernetes
 ⚙️ CI/CD | Automation | Infrastructure as Code
-🐧 Linux | DevSecOps | Monitoring
-
----
-
-## 👨‍💻 About Me
-
-I'm a **fresh graduate** passionate about building **scalable, secure, and automated cloud systems**.
-Actively building production-grade cloud and DevOps projects, and seeking my first role as a
+cloud and DevOps projects, and seeking my first role as a
 **DevOps Engineer, Cloud Engineer, or Cloud Support/Solutions Engineer**.
 
 I focus on:
