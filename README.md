@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif)
+![Banner](https://raw.githubusercontent.com/mhardik003/mhardik003/main/gi
 
 # Hi 👋, I'm Sudharsan
 ### DevOps & Cloud Engineer | Fresh Graduate | Open to Work
