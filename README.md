@@ -16,18 +16,7 @@ I focus on:
 - Automating cloud infrastructure with IaC
 - Building reliable CI/CD pipelines
 - Containerization and orchestration
-- Monitoring, logging, and performance optimization
-- Applying DevSecOps best practices
-rn ideas into
-production-ready systems.
-
-📫 Reach me at: **sudharsanbaskaran09@gmail.com**
-
----
-
-## 🛠️ Projects I'm Working On
-
-- 🔹 Actively working on **45+ hands-on AWS projects**, covering core to advanced cloud services
+- Monitoring, logging, anud services
   (compute, storage, networking, IAM, monitoring, and security).
 - 🔹 Planning and executing **12 real-world, industry-level DevOps & Cloud projects** focused on
   production-ready architectures.
