@@ -11,12 +11,27 @@
 
 ## 👨‍💻 About Me
 
-I'm a **fresh graduate** passionate about building **scal
+I'm a **fresh graduate** passionate about building **scalable, secure, and automated cloud systems**.
+Actively building production-grade cloud and DevOps projects, and seeking my first role as a
+**DevOps Engineer, Cloud Engineer, or Cloud Support/Solutions Engineer**.
+
 I focus on:
 - Automating cloud infrastructure with IaC
 - Building reliable CI/CD pipelines
 - Containerization and orchestration
-- Monitoring, logging, anud services
+- Monitoring, logging, and performance optimization
+- Applying DevSecOps best practices
+
+I work with **AWS, Azure, Docker, Kubernetes, Terraform, and Jenkins** to turn ideas into
+production-ready systems.
+
+📫 Reach me at: **sudharsanbaskaran09@gmail.com**
+
+---
+
+## 🛠️ Projects I'm Working On
+
+- 🔹 Actively working on **45+ hands-on AWS projects**, covering core to advanced cloud services
   (compute, storage, networking, IAM, monitoring, and security).
 - 🔹 Planning and executing **12 real-world, industry-level DevOps & Cloud projects** focused on
   production-ready architectures.
