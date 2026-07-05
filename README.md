@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/mhardik003/mhardik003/main/gi
+![Banner](https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif)
 
 # Hi 👋, I'm Sudharsan
 ### DevOps & Cloud Engineer | Fresh Graduate | Open to Work
@@ -9,7 +9,10 @@
 
 ---
 
-##oduction-grade cloud and DevOps projects, and seeking my first role as a
+## 👨‍💻 About Me
+
+I'm a **fresh graduate** passionate about building **scalable, secure, and automated cloud systems**.
+Actively building production-grade cloud and DevOps projects, and seeking my first role as a
 **DevOps Engineer, Cloud Engineer, or Cloud Support/Solutions Engineer**.
 
 I focus on:
