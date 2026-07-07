@@ -88,3 +88,11 @@ production-ready systems.
   </a>
 </div>
 
+---
+
+<h1 align="center">Consistency Engine</h1>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=sudharsanbaskaran09-eng&theme=highcontrast&hide_border=true&stroke=ff0000&ring=ff0000&fire=ff0000&currStreakLabel=ff0000&border_radius=12" alt="GitHub Streak" />
+</div>
+
