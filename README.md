@@ -1,9 +1,9 @@
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=35&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=950&lines=Hi+there%2C+I'm+Sudharsan+%F0%9F%91%8B;AWS+%7C+DevOps+%7C+Machine+Learning;Building+Scalable+AI+%26+Cloud+Solutions;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+
 ![Banner](https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif)
 
 # Hi 👋, I'm Sudharsan
 ### DevOps & Cloud Engineer | Fresh Graduate | Open to Work
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=35&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=950&lines=Hi+there%2C+I'm+Sudharsan+%F0%9F%91%8B;AWS+%7C+DevOps+%7C+Machine+Learning;Building+Scalable+AI+%26+Cloud+Solutions;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 
 ☁️ AWS | Azure | Docker | Kubernetes
 ⚙️ CI/CD | Automation | Infrastructure as Code
